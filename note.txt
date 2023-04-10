@@ -1,0 +1,2 @@
+product -> 1 category
+1 category -> n product
